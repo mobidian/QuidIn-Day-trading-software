@@ -4,4 +4,4 @@ It used to communicate with a NodeJs server for authentication and piping Intrin
 An ML algorithm was implemented there for forecasting the candles. <br> 
 Its efficiencies would be strengthened in the long term while this video is just a short clip.
 
-[![QuidIn Demo](https://youtu.be/uiuBvsJoAQY)](https://youtu.be/uiuBvsJoAQY)
+[![QuidIn Demo](https://github.com/mshadlou/QuidIn-Day-trading-software/blob/main/QuidIn.jpg)](https://youtu.be/uiuBvsJoAQY)
