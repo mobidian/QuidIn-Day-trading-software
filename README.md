@@ -1,6 +1,6 @@
 # QuidIn-Day-trading-software-C#
 I designed and developed this software in Oct 2019 before the COVID pandemic.<br>
-It used to communicate with a NodeJs server for authentication and piping Intrinio real-time and historical data on the US Stock market and was able to carry out financial asset management and PL analysis shortly.<br> 
+It used to communicate with a NodeJs server for authentication, marshalling and transferring Intrinio real-time and historical data on the US Stock market and was able to carry out financial asset management and PL analysis shortly.<br> 
 An ML algorithm was implemented there for forecasting the candles. <br> 
 
 ## Statement of the problem
@@ -14,15 +14,20 @@ Additionally, QuidIn provides lagging indicators and ML-based leading indicator 
 
 
 
-Figure 1: Multi-chart view             |  Figure 2: lagging indicators
+Figure 1: Multi-chart view             |  Figure 2: Lagging indicators
 :-------------------------:|:-------------------------:
 ![](https://github.com/mshadlou/QuidIn-Day-trading-software/blob/main/Multi0chart%20screen.jpg)  |  ![](https://github.com/mshadlou/QuidIn-Day-trading-software/blob/main/Lagging%20indicators.jpg)
 
+QuidIn has a tutirial service (multimedia) which allow a day-trader to effectively use this software and have the maximum benefit of it. It also provides services such as watchlist, multi-chart view, advanced dashboard, social media BuzzFeed, customizing the chart view and enabling special menu on each chart.<br>
+
+Figure 3: Multi-chart view             |  Figure 4: Live watchlist
+:-------------------------:|:-------------------------:
+![](https://github.com/mshadlou/QuidIn-Day-trading-software/blob/main/Multimedia.jpg)  |  ![](https://github.com/mshadlou/QuidIn-Day-trading-software/blob/main/Watchlist.jpg)
 
 <h3>Keywords:</h3> 
 C#, .NET, Web Socket, multi-threading, UI/UX design, SQL, REST, algo-trading, asset management <br>
 
 
-You may watch the demo in Youtube:<br>
-ML algorithm's efficiencies would be strengthened in the long term while the demo explained below is just a short clip.<br>
+You may watch the following demo in Youtube:<br>
+ML algorithm's efficiencies would be strengthened in the long term while the following demo explained is just a short clip.<br>
 [![QuidIn Demo](https://github.com/mshadlou/QuidIn-Day-trading-software/blob/main/QuidIn.jpg)](https://youtu.be/uiuBvsJoAQY)
